@@ -1,0 +1,92 @@
+*{
+    margin: 0;
+    padding:0px;
+    box-sizing: border-box;
+  
+  }
+  html,body{
+    width: 100%;
+    height: 100%;
+  }
+/* .mainhome{
+    width: 100%;
+    height: 100%;
+    padding: 30px ;
+    background: url('https://img.huffingtonpost.com/asset/5be966301f0000ff04263525.jpeg?cache=azP9cnQ2Vc&ops=scalefit_720_noupscale');
+  
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.mainform{
+    width: 30vmax;
+    height: 75%;
+    padding: 20px;
+    background-color: black;
+    /* background-color: #ffc0cb; */
+    /* color: white;
+    border: 2px solid black;
+    opacity: 0.8;
+    border-radius: 30px;
+    text-align: center;
+    margin:80px 120px;
+}
+h2{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-bottom: 10%;
+}
+input{
+    padding: 20px;
+    width: 100%;
+    border-radius: 10px;
+    margin-bottom: 5%;
+}
+.btn{
+ 
+    width: 20%;
+   
+    background-color: blanchedalmond;
+    border-radius: 20px;
+} */ 
+
+h1{
+    font-size: 80px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 110px;
+    padding: 10px;
+    color: black;
+    font-weight: 500;
+    
+}
+.main{
+    width: 100%;
+    height: 100vh;
+    background-image: url("https://preview.redd.it/2ds0t1dtem161.jpg?auto=webp&s=629b7cf9a6093f6485a2c7f99f4c13953389ded8");
+    
+}
+.main input{
+    width: 35%;
+    height: 6vh;
+    color: black;
+   
+}
+.main form{
+    margin-left: 5%;
+}
+.main button{
+    background-color: black;
+    border: none;
+    width: 11%;
+    height: 6vh;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.main label{
+    font-size: 20px;
+    font-family:'Times New Roman', Times, serif;
+    color: black;
+    font-weight: 600;
+}
+h4{
+    margin-left: 20px;
+}

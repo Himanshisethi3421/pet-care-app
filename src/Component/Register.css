@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html, body{
+    width: 100%;
+    height: 100%;
+}
+h1{
+    font-size: 60px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 80px;
+    padding: 10px;
+    
+    
+}
+.main2{
+    width: 100%;
+    height: 100vh;
+    background-image: url("https://www.cdc.gov/healthypets/images/pets/woman-with-cat-medium.jpg?_=89347");
+    background-position: center;
+    background-size: cover;
+}
+ .main2 input{
+    width: 35%;
+    height: 6vh;
+   
+}
+.main2 form{
+    margin-left: 5%;
+}
+.main2 button{
+    background-color: black;
+    border: none;
+    width: 11%;
+    height: 6vh;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.main2 label{
+    font-size: 20px;
+    font-family:'Times New Roman', Times, serif;
+    color: black;
+}
